@@ -1,4 +1,10 @@
 
+@font-face {
+ font-family: "BAUHS93";
+ src: url("BAUHS93/BAUHS93.woff");
+}
+
+
 body{
   background: rgba(253,169,133,255);
 }
@@ -7,4 +13,5 @@ h1{
   color : white;
   font-size: 7em;
   text-align: center;
+  font-family: "BAUHS93";
 }
